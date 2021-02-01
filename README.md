@@ -19,3 +19,12 @@ I like this food because it is a mixture of both **veg and non veg** ingredients
 1. Make the Alfredo sauce.
 1. Add the drained pasta and toss to coat in the sauce.
 
+### Ingredients
+* Half cup chicken pieces
+* Two table spoons butter
+* Seasonings
+    * Half spoon dried basil
+    * Half spoon dried oregano
+    * Half spoon pepper
+* Half cup parmesan cheese
+* Four cups penne pasta
