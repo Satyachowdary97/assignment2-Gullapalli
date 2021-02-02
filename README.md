@@ -52,6 +52,6 @@ I would like to suggest these places to visit because all these places were coas
 
 ## Quotes that I like :-
 
-> "Be the change that you wish to see in the world." <br> Author of this quote - _Mahatma Gandhi_
+> "Be the change that you wish to see in the world." <br> Author of this quote - _Mahatma Gandhi_ <br> 
 > "Life should be great rather than long." <br> Author of this quote - _Dr. B.R. Ambedkar_
 
