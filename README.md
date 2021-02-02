@@ -8,7 +8,7 @@ I like this food because it is a mixture of both **veg and non veg** ingredients
 
 ----
 
-## Preparation of penne alfredo chicken pasta.
+## Preparation of penne alfredo chicken pasta :-
 1. Cook the pasta, drain, and reserve cooking water.
 1. Dry the chicken and season with salt and pepper.
 1. Heat the oil over medium-high in a large frying pan.
@@ -19,7 +19,7 @@ I like this food because it is a mixture of both **veg and non veg** ingredients
 1. Make the Alfredo sauce.
 1. Add the drained pasta and toss to coat in the sauce.
 
-### Ingredients
+### Ingredients :-
 * Half cup chicken pieces
 * Two table spoons butter
 * Seasonings
@@ -47,4 +47,11 @@ I would like to suggest these places to visit because all these places were coas
 |Pondicherry |          75                           |  15,000/-      |
 |Vizag       |          100                          |  10,000/-      |
 |Mumbai      |          50                           |  25,000/-      |
+
+----
+
+## Quotes that I like :-
+
+> "Be the change that you wish to see in the world." <br> Author of this quote - _Mahatma Gandhi_
+> "Life should be great rather than long." <br> Author of this quote - _Dr. B.R. Ambedkar_
 
