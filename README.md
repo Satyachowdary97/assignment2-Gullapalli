@@ -48,17 +48,18 @@ I would like to suggest these places to visit because all these places were coas
 |Vizag       |          100                              |  $ 100             |
 |Mumbai      |          50                               |  $ 250             |
 
-![Goa beach](Locations/Goa.jpg)
-Goa beach view
 
-![Pondicherry beach](Locations/Pondicherry.jpg)
-Pondicherry beach view
+![Goa beach](Locations/Goa.jpg) <br> Goa beach view
 
-![Vizag beach](Locations/Vizag.jpg)
-Vizag beach view
 
-![Mumbai beach](Locations/Mumbai.jpg)
-Mumbai beach view
+![Pondicherry beach](Locations/Pondicherry.jpg) <br> Pondicherry beach view
+
+
+![Vizag beach](Locations/Vizag.jpg) <br> Vizag beach view
+
+
+![Mumbai beach](Locations/Mumbai.jpg) <br> Mumbai beach view
+
 
 
 ----
