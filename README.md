@@ -30,3 +30,21 @@ I like this food because it is a mixture of both **veg and non veg** ingredients
 * Four cups penne pasta
 
 [Click here to know about me](AboutMe.md)
+
+----
+
+## List of places that I would suggest to visit :-
+1. Goa
+1. Pondicherry
+1. Vizag
+1. Mumbai
+
+I would like to suggest these places to visit because all these places were coastal regions and all the four places were different from each other. All the four places were the most popular tourism spots in India. Not only the Indians, many foreigners prefer visiting these places. 
+
+|Location| Number of hours that visitor should spend | Amount to be spent |
+|  ----      |        ----                           |  ----          |
+|Goa         |          150                          |  20,000/-      |
+|Pondicherry |          75                           |  15,000/-      |
+|Vizag       |          100                          |  10,000/-      |
+|Mumbai      |          50                           |  25,000/-      |
+
