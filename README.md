@@ -49,9 +49,17 @@ I would like to suggest these places to visit because all these places were coas
 |Mumbai      |          50                               |  $ 250             |
 
 ![Goa beach](Locations/Goa.jpg)
+Goa beach view
+
 ![Pondicherry beach](Locations/Pondicherry.jpg)
+Pondicherry beach view
+
 ![Vizag beach](Locations/Vizag.jpg)
+Vizag beach view
+
 ![Mumbai beach](Locations/Mumbai.jpg)
+Mumbai beach view
+
 
 ----
 
